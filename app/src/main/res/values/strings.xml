@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">quizGame</string>
+    <string name="username">Please enter a username</string>
+    <string name="password">Please enter a password</string>
+    <string name="usernameBT">Press to finish</string>
+    <string name="Score">Score</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="title_activity__game">Activity_Game</string>
+    <string name="title_activity_end_game">EndGame</string>
+    <string name="userexist">User does not exist</string>
+    <string name="enterYourName">Enter you user name</string>
+    <string name="enterYourPass">Enter you password</string>
+    <string name="WrongPassword">Wrong Password</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="fillInformation">please fill full information</string>
+    <string name="Ok">Ok</string>
+    <string name="email">Email Address</string>
+    <string name="cancel">Cancel</string>
+    <string name="Useralreadyexist">User already exist!</string>
+    <string name="Userregistrationsuccess">User registration success</string>
+    <string name="YourScore">Your score:</string>
+    <string name="quitAlert">Disconnect</string>
+    <string name="quit">"By clicking OK you will disconnect. Are you sure?"</string>
+
+
+
+</resources>
